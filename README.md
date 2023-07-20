@@ -12,13 +12,11 @@ Screenshots
 
 Include a few screenshots showcasing the user interface and key features of your app. For example:
 
-Screenshot 1  -> ![Screenshot_2023-06-24-02-35-57-19_b010009e7786feaf3f907d09e0eb39a7](https://github.com/jester-sys/EverNote-Android-App/assets/115554090/551dd12f-63bc-44f8-b51f-9150978a184b)
-
-Screenshot 2 ->  ![Screenshot_2023-06-24-02-36-14-94_b010009e7786feaf3f907d09e0eb39a7](https://github.com/jester-sys/EverNote-Android-App/assets/115554090/d28af497-56d6-4ab7-be4b-1245c04dd076)
-
-Screenshot 3 -> ![Screenshot_2023-06-24-02-35-36-92_b010009e7786feaf3f907d09e0eb39a7](https://github.com/jester-sys/EverNote-Android-App/assets/115554090/d774630e-5774-4b76-bfd8-b9ee70995205)
 
 
+<img src="https://github.com/jester-sys/EverNote-Android-App/assets/115554090/551dd12f-63bc-44f8-b51f-9150978a184b" width="300" height="400">
+<img src="https://github.com/jester-sys/EverNote-Android-App/assets/115554090/d28af497-56d6-4ab7-be4b-1245c04dd076" width="300" height="400">
+<img src="https://github.com/jester-sys/EverNote-Android-App/assets/115554090/d774630e-5774-4b76-bfd8-b9ee70995205" width="300" height="400">
 Architecture
 
 The app follows the MVVM (Model-View-ViewModel) architecture, which separates the concerns of data management, UI rendering, and user interactions.
